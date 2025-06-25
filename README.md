@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Rishabh Upadhyay</h1>
 
-<!--
-**Rishabhupadhyay28/Rishabhupadhyay28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🎓 M.Tech Student | 💡 AI/ML & GenAI Explorer | 💼 Intern @Tech Mahindra & DRDO
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 About Me
+
+- 🔬 Currently working on a **Generative AI project** using **CrewAI, Ollama & Open-source LLMs** at **Tech Mahindra**
+- 🌱 Previously interned at **DRDO**, where I developed a **Crop Recommendation System** (98% accurate) using ML + Flask
+- 🧠 Passionate about building **real-world AI solutions** using **Multi-Agent Systems, NLP, LLMs, and ML models**
+- 📚 Actively learning LangChain, LLM orchestration, and production-ready pipelines
+- 🛠️ Open to internships, research collaborations, or freelance AI projects
+
+---
+
+### 🧠 Skills & Tools
+
+**Languages**: Python, SQL, HTML/CSS  
+**Libraries/Frameworks**: NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn, OpenAI API, Flask, Streamlit  
+**AI/ML**: Machine Learning, Deep Learning, NLP, Embeddings, Recommendation Systems  
+**GenAI & Agents**: CrewAI, LangChain, Ollama, LLM Tools, Prompt Engineering  
+**Dev Tools**: Git, GitHub, VS Code, Google Colab, Jupyter, 
+**Soft Skills**: Problem-Solving, Research, Communication, Teamwork  
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" width="47%" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+- 📧 Email: rishabhupadhyay428@gmail.com
+- 💼 LinkedIn: (https://www.linkedin.com/in/rishabh-upadhyay-6596831b3/)
+- 🌐 Portfolio (coming soon)
+
+---
+
+⭐ *"Build with curiosity, ship with purpose."*
