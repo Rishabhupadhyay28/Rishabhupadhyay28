@@ -25,16 +25,6 @@
 **Dev Tools**: Git, GitHub, VS Code, Google Colab, Jupyter, 
 **Soft Skills**: Problem-Solving, Research, Communication, Teamwork  
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" width="47%" />
-</p>
-
----
 
 ### 📫 Let's Connect
 
