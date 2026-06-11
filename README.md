@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishabh Upadhyay</h1>
 
 <p align="center">
-  🎓 M.Tech Student | 💡 AI/ML & GenAI Explorer | 💼 Intern @Tech Mahindra & DRDO
+  🎓 M.Tech  | 💡 AI/ML & GenAI Explorer | 💼 Junior AI Automation Engineer at Eleserv Softech
 </p>
 
 ---
